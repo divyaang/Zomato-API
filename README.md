@@ -2,9 +2,16 @@
 
 This Project was done as part of Data Science and Machine Learning Course offered by Coding Ninjas. 
 
-For this Project data has been collected from the Zomato API in the form of .json files(raw data) using the following url and stored in CSV file.
+For this project, we are using the Zomato API.
+Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
+Zomato API documentation link: https://developers.zomato.com/api
+Our Motivation for using Zomato API
+By Collecting the data using Zomato API one can recommend restaurants on the basis of user’s affinity to specific cuisines, establishment types, locations, and price bands.
+We can find out whether restaurant support online reservation or not.
+We can find what is the most popular and/ or exclusive/new at a given location & time
+Data used in in the project has been collected from the Zomato API in the form of .json files(raw data) using the following url and stored in CSV file.
 
-Problem Statements considered in this part include:
+Problem Statements considered in this project include:
 
 1. The dataset is highly skewed toward the cities included in Delhi-NCR. So, we will summarise all the other cities in Rest of India while those in New Delhi, Ghaziabad, Noida, Gurgaon, Faridabad to Delhi-NCR. Doing this would make our analysis turn toward Delhi-NCR v Rest of India.
 Plot the bar graph of number of restaurants present in Delhi NCR vs Rest of India.
