@@ -1,21 +1,8 @@
 # Zomato-API
 
-This Project was done as part of Data Science and Machine Learning Course offered by Coding Ninjas. The Project was divided into two parts: Part-I and Part-II
+This Project was done as part of Data Science and Machine Learning Course offered by Coding Ninjas. 
 
-Part-I
-
-For Part-I, we are using the Zomato API.
-Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
-Zomato API documentation link: https://developers.zomato.com/api
-
-Our Motivation for using Zomato API
-By Collecting the data using Zomato API one can recommend restaurants on the basis of user’s affinity to specific cuisines, establishment types, locations, and price bands.
-We can find out whether restaurant support online reservation or not.
-We can find what is the most popular and/ or exclusive/new at a given location & time
-
-Part-II
-
-For this part data has been collected from the Zomato API in the form of .json files(raw data) using the following url and stored in CSV file.
+For this Project data has been collected from the Zomato API in the form of .json files(raw data) using the following url and stored in CSV file.
 
 Problem Statements considered in this part include:
 
